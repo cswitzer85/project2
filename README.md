@@ -17,8 +17,8 @@ project2 is a collaborative endeavour and the culmination of the SMU Coding Boot
 * [Contributing](#Contributing)
 * [Contacts](#Contacts)
   * [Cody Switzer](https://cswitzer85.github.io/Basic-Portfolio/     "cswitzer85's GitHub")
-  * [Leo Fernandez](#Leo-Fernandez)
-  * [Gen Li](#Gen-Li)
+  * [Leo Fernandez](#Contact)
+  * [Gen Li](#Contacts)
 * [License(s)](#License(s))
 * [Acknowledgements](#Acknowledgements)
 
